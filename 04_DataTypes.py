@@ -8,7 +8,7 @@ print(x)
 
 # 2. Integer
 
-x = 12
+x = 14
 print(x)
 
 # 3. Float
