@@ -13,7 +13,7 @@ print(a//b) # Floor division
 
 # 2. Assignment Operators
 
-a = 2 
+a = 4 
 print(a)
 
 a = 6
